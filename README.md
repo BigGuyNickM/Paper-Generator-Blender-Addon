@@ -11,7 +11,7 @@ A Blender add-on that turns a PDF or a folder of images into real, individual pa
 
 ## Installation
 
-1. Download `PaperGenerator.zip` from the Releases page.
+1. Download `PaperGenerator.zip` from the [Releases page](https://github.com/BigGuyNickM/Paper-Generator-Blender-Addon/releases).
 2. In Blender, open Edit > Preferences, click the dropdown arrow in the top right, and choose Install from Disk.
 3. Select the zip and enable the add-on.
 4. On first use, click Install Dependencies to install PyMuPDF.
